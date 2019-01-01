@@ -1,0 +1,6 @@
+c:\users\sercan\documents\visual studio 2013\Projects\WebService_TcknDogrulama\WebService_TcknDogrulama\bin\Debug\WebService_TcknDogrulama.exe.config
+c:\users\sercan\documents\visual studio 2013\Projects\WebService_TcknDogrulama\WebService_TcknDogrulama\obj\Debug\WebService_TcknDogrulama.csprojResolveAssemblyReference.cache
+c:\users\sercan\documents\visual studio 2013\Projects\WebService_TcknDogrulama\WebService_TcknDogrulama\bin\Debug\WebService_TcknDogrulama.exe
+c:\users\sercan\documents\visual studio 2013\Projects\WebService_TcknDogrulama\WebService_TcknDogrulama\bin\Debug\WebService_TcknDogrulama.pdb
+c:\users\sercan\documents\visual studio 2013\Projects\WebService_TcknDogrulama\WebService_TcknDogrulama\obj\Debug\WebService_TcknDogrulama.exe
+c:\users\sercan\documents\visual studio 2013\Projects\WebService_TcknDogrulama\WebService_TcknDogrulama\obj\Debug\WebService_TcknDogrulama.pdb
